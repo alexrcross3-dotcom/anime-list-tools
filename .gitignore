@@ -1,0 +1,12 @@
+# Personal data - your list, exports, and what the scripts generate
+*.csv
+*.json
+*.xml
+
+# Lookup cache
+.anilist_cache.json
+
+# Python and Mac clutter
+__pycache__/
+*.pyc
+.DS_Store
